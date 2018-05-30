@@ -60,7 +60,7 @@ __If you want to see corrections files for these projects, go [HERE](https://git
 
 ### Algorithmic branch
 - [Ft_printf (T1)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/ft_printf.pdf)
-- [Push Swap (T1)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/push_swap.pdf)
+- Push Swap (T1) [FR](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/push_swap.pdf) / [EN](https://github.com/yedeyu/42_Subjects/blob/master/00_Projects/02_Algorithmic/push_swap.en.pdf)
 - [Filler (T1)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/filler.pdf)
 - [Lem_in (T2)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/lem-in.pdf)
 - [Mod1 (Optional Project) (T2)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/02_Algorithmic/mod1.pdf)
