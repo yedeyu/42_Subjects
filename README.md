@@ -8,7 +8,7 @@ __If you want to see corrections files for these projects, go [HERE](https://git
 
 ## Norme 42
 - [Norme 2.0.0](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_0.pdf)
-- [Norme 2.0.1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_1.pdf)
+- Norme 2.0.1 [FR](https://github.com/yedeyu/42_Subjects/blob/master/04_Norme/norme_2_0_1.pdf) / [EN](https://github.com/yedeyu/42_Subjects/blob/master/04_Norme/norme.en%202.0.1.pdf)
 
 ## Projects
 
